@@ -1,4 +1,6 @@
 .metadata
-hibernate-release-5.0.4.Final/
+.recommenders/
+hibernate-release-4.3.11.Final/
 spring-framework-4.2.3.RELEASE/
+mysql-connector-java-5.1.37/
 *.jar
